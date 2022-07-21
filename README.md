@@ -1,5 +1,7 @@
 <h1>Hi there 👋 My name is Caitlin. Welcome to my Github!</h1>
 
+🌎 Located in San Diego, California
+
 🔭 I’m currently working on my full-stack pixel-perfect clone of Medium.
 
 🌱 I’m currently learning how to incorporate AWS into my applications.
