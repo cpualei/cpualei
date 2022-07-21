@@ -1,5 +1,4 @@
-<h1>Hi there 👋 I'm Caitlin.</h1>
-##Welcome to my GitHub!
+<h1>Hi there 👋 My name is Caitlin. Welcome to my Github!</h1>
 
 🔭 I’m currently working on my full-stack pixel-perfect clone of Medium.
 
