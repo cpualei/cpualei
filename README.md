@@ -1,8 +1,8 @@
 <h1>Hi there 👋 My name is Caitlin. Welcome to my Github!</h1>
 
-👶🏽 From Maui, Hawaii 
+🏝 From Maui, Hawaii
 
-🌎 Located in San Diego, California
+🌎 Living in San Diego, California
 
 🔭 I’m currently working on my full-stack pixel-perfect clone of Medium.
 
