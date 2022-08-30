@@ -1,4 +1,4 @@
-<h1>Hi, my name is Caitlin. Welcome to my Github.</h1>
+<h1>Welcome to my Github. My name is Caitlin!</h1>
 
 I am from Maui, Hawaii - Living in San Diego, California.
 
