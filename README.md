@@ -2,7 +2,7 @@
 
 I am from Maui, Hawaii - Living in San Diego, California.
 
-Recent graduate of the App Academy SWE bootcamp. Currently working on incorporating AWS into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities.
+Recent graduate of the App Academy SWE bootcamp. Currently working on incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities.
 
 
 
