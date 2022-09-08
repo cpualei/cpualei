@@ -9,7 +9,7 @@ July 2022 graduate of the App Academy SWE bootcamp. I am actively incorporating 
 👥 You can also connect with me on: <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
 
 <h2>Recently Learned:</h2>
-**Septemer 7, 2022 - Implemented Amazon AWS into my [Betwx'd](https://betwxd.herokuapp.com/) web application.
+**Septemer 7, 2022 - Implemented Amazon AWS into my [Betwx'd](https://betwxd.herokuapp.com/) application.
 <br/><br/>
 
 <h2>My Skills</h2>
