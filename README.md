@@ -2,8 +2,7 @@
 
 I am from Maui, Hawaii - Living in San Diego, California.
 
-Recent graduate of the App Academy SWE bootcamp. Currently working on incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities.
-
+Recent graduate of the App Academy SWE bootcamp. I am actively incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities!
 
 
 📫 Please feel free to contact me at: cbuenlucas@gmail.com
@@ -37,3 +36,4 @@ Tools
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black)
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
