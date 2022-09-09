@@ -1,8 +1,8 @@
 <h1>Welcome to my Github. My name is Caitlin!</h1>
 
-I am from Maui, Hawaii - Living in San Diego, California.
+Maui, HI ➡️ San Diego, CA
 
-App Academy SWE bootcamp - Jan 2022 to Jul 2022
+Graduate of the App Academy SWE bootcamp - Jan '22 to Jul '22
 
 📫 Please feel free to contact me at: cbuenlucas@gmail.com
 
