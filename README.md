@@ -2,7 +2,7 @@
 
 I am from Maui, Hawaii - Living in San Diego, California.
 
-July 2022 graduate of the App Academy SWE bootcamp. Actively incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities!
+App Academy SWE bootcamp - Jan 2022 to Jul 2022
 
 📫 Please feel free to contact me at: cbuenlucas@gmail.com
 
