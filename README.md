@@ -2,13 +2,16 @@
 
 I am from Maui, Hawaii - Living in San Diego, California.
 
-July 2022 graduate of the App Academy SWE bootcamp. I am actively incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities!
+July 2022 graduate of the App Academy SWE bootcamp. Actively incorporating new features into my full-stack applications and practicing DS&As. My job search has just begun and I am excited for and open to new opportunities!
 
 📫 Please feel free to contact me at: cbuenlucas@gmail.com
 
 👥 You can also connect with me on: <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
 
-<h2>Recently Learned:</h2>
+<h2>Currently Learning 🧠:</h2>
+- TypeScript
+
+<h2>Recently Learned 💡:</h2>
 **Septemer 7, 2022 - Implemented Amazon AWS into my Betwx'd application. https://betwxd.herokuapp.com
 <br/><br/>
 
