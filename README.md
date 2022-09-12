@@ -1,4 +1,4 @@
-<h1>Welcome to my Github. My name is Caitlin!</h1>
+<h2>Caitlin Buen-Lucas</h2>
 
 Maui, HI ➡️ San Diego, CA
 
@@ -7,13 +7,6 @@ Graduate of the App Academy SWE bootcamp - Jan '22 to Jul '22
 📫 Please feel free to contact me at: cbuenlucas@gmail.com
 
 👥 You can also connect with me on: <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
-
-<h2>Currently Learning 🧠:</h2>
-- TypeScript
-
-<h2>Recently Learned 💡:</h2>
-**Septemer 7, 2022 - Implemented Amazon AWS into my Betwx'd application. https://betwxd.herokuapp.com
-<br/><br/>
 
 <h2>My Skills</h2>
 
