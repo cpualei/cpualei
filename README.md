@@ -36,3 +36,5 @@ Tools
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cpualei)](https://github.com/anuraghazra/github-readme-stats)
