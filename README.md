@@ -1,12 +1,14 @@
 <h2>Caitlin Buen-Lucas</h2>
 
-Maui, HI ➡️ San Diego, CA
+Maui, HI ➡ San Diego, CA
 
-Graduate of the App Academy SWE bootcamp - Jan '22 to Jul '22
+Graduate of the App Academy
 
-📫 Please feel free to contact me at: cbuenlucas@gmail.com
+📫 Contact me at cbuenlucas@gmail.com
 
-👥 You can also connect with me on: <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
+🗂️ View my <a href="https://caitlinbuenlucas.com/">portfolio</a> site
+
+👥 Connect with me on <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
 
 <h2>My Skills</h2>
 
