@@ -2,8 +2,6 @@
 
 Maui, HI ➡ San Diego, CA
 
-Graduate of the App Academy Software Engineering bootcamp
-
 📫 Contact me at cbuenlucas@gmail.com
 
 🗂️ View my <a href="https://caitlinbuenlucas.com/">portfolio</a> site
