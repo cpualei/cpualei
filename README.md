@@ -8,7 +8,7 @@ Maui, HI ➡ San Diego, CA
 
 👥 Connect with me on <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
 
-<h2>My Skills</h2>
+<h3>My Skills</h3>
 
 Languages
 
