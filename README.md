@@ -4,9 +4,9 @@ Maui, HI ➡ San Diego, CA
 
 📫 Contact me at cbuenlucas@gmail.com
 
-🗂️ View my <a href="https://caitlinbuenlucas.com/">portfolio</a> site
+🗂️ View my <a href="https://caitlinbuenlucas.com/" target='_blank'>portfolio</a> site
 
-👥 Connect with me on <a href="https://www.linkedin.com/in/caitlin-buen-lucas/">LinkedIn</a><br/><br/>
+👥 Connect with me on <a href="https://www.linkedin.com/in/caitlin-buen-lucas/" target='_blank'>LinkedIn</a><br/><br/>
 
 <h3>My Skills</h3>
 
